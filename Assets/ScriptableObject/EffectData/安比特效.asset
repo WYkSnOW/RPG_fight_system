@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d29e51a4ebcc05743a63ce35402bfce8, type: 3}
+  m_Name: "\u5B89\u6BD4\u7279\u6548"
+  m_EditorClassIdentifier: 
+  effectItems:
+  - VFXName: Anby_01
+    VFXPrefab: {fileID: 3483676825756931651, guid: 4df6f0efc9334d8419ea17a76910b6ee,
+      type: 3}
+    parentPos: {fileID: 3395125499825452458, guid: 4df6f0efc9334d8419ea17a76910b6ee,
+      type: 3}
+    effectEulerAngle: {x: 0, y: 0, z: 0}
+    effectRotation: {x: 0, y: 0, z: 0, w: 0}
+    count: 0
+  - VFXName: 
+    VFXPrefab: {fileID: 0}
+    parentPos: {fileID: 0}
+    effectEulerAngle: {x: 0, y: 0, z: 0}
+    effectRotation: {x: 0, y: 0, z: 0, w: 0}
+    count: 0
